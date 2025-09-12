@@ -12,6 +12,12 @@ body {
     height: 100vh;
     padding: 1rem;
     background-color: #fff;
+    float: left;
+}
+
+.selected-pokemon-image {
+    float: left;
+    margin: 100px 40px;
 }
 
 @media screen and (min-width: 992px) {
